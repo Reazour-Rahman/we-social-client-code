@@ -1,0 +1,11 @@
+.user-data{
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid teal;
+    margin: 5px 0px;
+}
+.user-data-container{
+    padding: 0px 15px;
+}

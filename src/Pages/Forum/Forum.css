@@ -1,0 +1,48 @@
+.forum-display{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    gap: 10px;
+}
+.forum-display-top{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    gap: 10px;
+    align-items: center;
+}
+.community-btn{
+    background-color: #f3f6f4;
+}
+.top-btn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.fs{
+    font-size: 35px;
+}
+.post-modal{
+
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.post-modal-name{
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+}
+
+.dynamic-btn-hovering{
+    color: rgb(46, 46, 255);
+}
+.dynamic-btn-hovering:hover{
+    text-decoration: underline;
+}
+.profile-image-style:hover{
+    border-radius: 50%;
+    box-shadow: rgba(255, 255, 255, 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.9) 0px 0px 0px 1px;
+}

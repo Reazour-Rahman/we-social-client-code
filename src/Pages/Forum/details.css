@@ -1,0 +1,8 @@
+.reply-details{
+    max-width: 90ch;
+
+}
+.reply-container{
+    display: flex;
+    justify-content: center;
+}
